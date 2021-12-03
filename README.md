@@ -19,7 +19,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'GangwonEdu';
+    font-family: 'GangwonEduAll';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduAllBold.eot');
@@ -41,7 +41,7 @@
 <pre>
 @font-face {
     font-family: 'GangwonEduHyeonokT';
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduHyeonokT.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduHyeonokT.eot?#iefix') format('embedded-opentype'),
@@ -62,8 +62,8 @@
 
 <pre>
 @font-face {
-    font-family: 'GangwonEduHyeonokT';
-    font-weight: 400;
+    font-family: 'GangwonEduPower';
+    font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduPower.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduPower.eot?#iefix') format('embedded-opentype'),
@@ -83,7 +83,7 @@
 <pre>
 @font-face {
     font-family: 'GangwonEduSaeeum';
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduSaeeum.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduSaeeum.eot?#iefix') format('embedded-opentype'),
