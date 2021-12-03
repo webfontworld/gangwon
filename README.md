@@ -19,7 +19,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'GangwonEdu';
+    font-family: 'GangwonEduAll';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduAllBold.eot');
