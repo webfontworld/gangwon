@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'GangwonEduHyeonokT';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduHyeonokT.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduHyeonokT.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduHyeonokT.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduHyeonokT.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gangwon/GangwonEduHyeonokT.ttf') format("truetype");
+    font-display: swap;
+} 
