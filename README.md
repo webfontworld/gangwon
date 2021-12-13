@@ -1,8 +1,6 @@
-# gangwon
-
 # 강원교육모두체(GangwonEduAll)
 
-<a href="https://wess.tistory.com/244" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/gangwon/GangwonEduAll.jpg" alt="GangwonEduAll" style="width:300px">
 </a>
 
@@ -34,7 +32,7 @@
 
 # 강원교육현옥샘체(GangwonEduHyeonokT)
 
-<a href="https://wess.tistory.com/244" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/gangwon/GangwonEduHyeonokT.jpg" alt="GangwonEduHyeonokT" style="width:300px">
 </a>
 
@@ -56,7 +54,7 @@
 
 # 강원교육튼튼체(GangwonEduPower)
 
-<a href="https://wess.tistory.com/244" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/gangwon/GangwonEduPower.jpg" alt="GangwonEduPower" style="width:300px">
 </a>
 
@@ -76,7 +74,7 @@
 
 # 강원교육새음체(GangwonEduSaeeum)
 
-<a href="https://wess.tistory.com/244" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/gangwon/GangwonEduSaeeum.jpg" alt="GangwonEduSaeeum" style="width:300px">
 </a>
 
